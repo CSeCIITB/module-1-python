@@ -3,7 +3,7 @@ Run the game as :
 chmod +x ttt #If the file is not marked as executable
 ./ttt
 ```
-[ <b>NOTE</b> : The indicies, row and column, are zero-indexed (the first element is referred by 0) ] <br>
+[ <b>NOTE</b> : The indicies, i.e. rows and columns, are zero-indexed (the first element is referred by 0) ] <br>
 <br>
 You task is to create a program that always draws or wins against the given program. Repeating this a 150 times and you earn you the flag.
 
