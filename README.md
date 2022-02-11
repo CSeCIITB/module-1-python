@@ -36,7 +36,7 @@ Credits to [scimaths](https://github.com/scimaths) 🙏
 
 
 ## CTF challenge Walkthroughs
-1. string evaluation of input in python2 [HSCTF - Python Remote Code Execution ](https://www.youtube.com/watch?v=gmaWOknsb2A) (5 min) | Read about Python2.x input vulnerability [here](https://www.geeksforgeeks.org/vulnerability-input-function-python-2-x/)
+1. string evaluation of input in python2 [HSCTF - Python Remote Code Execution ](https://www.youtube.com/watch?v=gmaWOknsb2A) (5 min) | Read more about Python2.x input vulnerability [here](https://www.geeksforgeeks.org/vulnerability-input-function-python-2-x/)
 1. pwntools process interaction [GOOGLE CTF 2021](https://www.proggen.org/doku.php?id=security:ctf:writeup:google:2021:filestore) (good read)
 2. pwntools in bash [TAMU CTF 2020](https://www.youtube.com/watch?v=fZ3mPRctbO0) (17 mins)
 3. Request module usage [OverTheWire natas level4](https://www.youtube.com/watch?v=Sf63W1xXzNU) (11  mins)
