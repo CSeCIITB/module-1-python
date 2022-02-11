@@ -39,17 +39,17 @@ Now you may move to **Challenges** section to complete this week's material
 
 
 # Challenges
-We have designed 5 challenges:
-- [bruteforcer](bruteforcer)
-- [minesweeper](minesweeper)
-- [notwordle](notwordle)
-- [pyjail](pyjail)
-- [tic-tac-toe](tic-tac-toe)
+We have designed 5 challenges (in increasing order of difficulty):
+1. [bruteforcer](bruteforcer)
+2. [notwordle](notwordle)
+3. [pyjail](pyjail)
+4. [minesweeper](minesweeper)
+5. [tic-tac-toe](tic-tac-toe)
 
 
 All challenges are present in different folders of this
-repository. All in all, you would need to solve **atleast 2 challenges throughtout the module** but we encourage that you solve all of these, for things are more fun that way
-😊. Make sure you go through the respective `README.md` files before jumping into the challenge. Have fun!😁
+repository. All in all, you would need to solve **atleast 2 challenges throughtout the module** but we encourage that you solve all of these, for things are more fun that way 😊.
+Make sure you go through the respective `README.md` files before jumping into the challenge. Have fun! 😁
 
 Discussions among mentees are encouraged and we request you to use our [Discord Server](https://discord.gg/nnpCPsUrYV) for the same.
 <p align="center">Created with :heart: by <a href="https://linktr.ee/csec.iitb">CSeC</a></p>
