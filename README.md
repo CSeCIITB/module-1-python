@@ -28,7 +28,7 @@ Credits to [scimaths](https://github.com/scimaths) 🙏
 ## Text guides
 
 1. [Pico Primer(python + other basics)](https://primer.picoctf.com/#_programming_in_python)
-2. [Intro to Python](http://introtopython.org/) (Classes can be skipped)
+2. [Intro to Python](http://introtopython.org/) (You may skip classes)
 3. [Pwntools Cheat Sheet](https://gist.github.com/anvbis/64907e4f90974c4bdd930baeb705dedf)
 
 ## Video guides
