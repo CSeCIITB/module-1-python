@@ -10,3 +10,11 @@ Successfully doing this for the 10 random instances provided by the program will
 
 ## Submission instruction
 Create a file `script.py` which solves the challenge. The first line of this file should contain a comment with the flag you obtained.
+<br>
+<br>
+<br>
+<br>
+<details>
+  <summary>Solution spoiler</summary>
+  https://www.youtube.com/watch?v=G_UYXzGuqvM
+</details>
