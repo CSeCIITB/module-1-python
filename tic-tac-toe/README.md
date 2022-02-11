@@ -9,3 +9,10 @@ You task is to create a program that always draws or wins against the given prog
 
 ## Submission instruction
 Create a file `script.py` which solves the challenge. The first line of this file should contain a comment with the flag you obtained.
+<br>
+<br>
+<br>
+<details>
+  <summary>Solution spoiler</summary>
+  https://levelup.gitconnected.com/mastering-tic-tac-toe-with-minimax-algorithm-3394d65fa88f
+</details>
