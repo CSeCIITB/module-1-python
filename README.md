@@ -19,19 +19,30 @@ We are not taking up `how to install python`. Since it is available by default o
 The content include an introduction to Python(syntax and such stuff). Then an introduction to [pwntools](http://docs.pwntools.com/en/latest/), an interesting framework. `Pwntools` in itself is a huge package and would require a dedicated module would be less to know everything about it;
 This will get you familiar with writing exploit scripts in Python.
 
-## Text guides
-
-## Video guides
-
 ## Our Introductory Session for Python
 
 [CSeC - Intro to Python](https://iitbacin.sharepoint.com/:v:/s/CSecClub/ETXm3oSRRoJKgKDCaKLiRbYBTh5fLAYkaow3MX59-5FTyQ?e=1rRkWg) | [Colab Notebook link](https://colab.research.google.com/drive/1jtco0kzb9pg7eAPUEh4VEAP8k7Iq1J3P?usp=sharing)
 
 <font size="0">Credits to [scimaths](https://github.com/scimaths) 🙏</font>
 
-<-- will be adding more resource here -->
+## Text guides
+
+1. [Pico Primer(python + other basics)](https://primer.picoctf.com/#_programming_in_python)
+2. [Intro to Python](http://introtopython.org/) (Classes can be skipped)
+3. [Pwntools Cheat Sheet](https://gist.github.com/anvbis/64907e4f90974c4bdd930baeb705dedf)
+
+## Video guides
+1.
+2.
+3.
 
 ## CTF challenge Walkthroughs
+1.
+2.
+3.
+4.
+5.
+6.
 
 Now you may move to **Challenges** section to complete this week's material
 
