@@ -44,8 +44,7 @@ We are not taking up `how to install python`. Since it is available by default o
 
 ## Overview
 This week's content includes an introduction to Python(syntax and such stuff). These resources will make you comfortable with python.</br>
-Followed by an introduction to [pwntools](http://docs.pwntools.com/en/latest/), an interesting framework. `Pwntools` in itself is a huge package and even a dedicated module would be less to know everything about it. </br>
-It will get you familiar with writing exploit scripts in Python.</br>
+Followed by an introduction to [pwntools](http://docs.pwntools.com/en/latest/), an interesting framework. `Pwntools` in itself is a huge package and even a dedicated module would be less to know everything about it. It will get you familiar with writing exploit scripts in Python.</br>
 Some other important modules/libraries regularly used are [sys](https://docs.python.org/3/library/sys.html), [os](https://docs.python.org/3/library/os.html), [subprocess](https://docs.python.org/3/library/subprocess.html), all these are in-built python modules.
 
 ## Our Introductory Session for Python
