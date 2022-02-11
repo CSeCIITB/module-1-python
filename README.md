@@ -39,7 +39,15 @@ Now you may move to **Challenges** section to complete this week's material
 
 
 # Challenges
-We have designed 5 challenges.     . All challenges are present in different folders of this
+We have designed 5 challenges:
+- [bruteforcer](bruteforcer)
+- [minesweeper](minesweeper)
+- [notwordle](notwordle)
+- [pyjail](pyjail)
+- [tic-tac-toe](tic-tac-toe)
+
+
+All challenges are present in different folders of this
 repository. All in all, you would need to solve **atleast 2 challenges throughtout the module** but we encourage that you solve all of these, for things are more fun that way
 😊. Make sure you go through the respective `README.md` files before jumping into the challenge. Have fun!😁
 
