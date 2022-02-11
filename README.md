@@ -35,7 +35,7 @@ Credits to [scimaths](https://github.com/scimaths) 🙏
 3. [Pwntools Cheat Sheet](https://gist.github.com/anvbis/64907e4f90974c4bdd930baeb705dedf)
 
 ## Video guides
-- Another brief learn python [playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln) (If you prefer video over reading)
+- Another brief learn python [playlist](https://youtube.com/playlist?list=PLUnFa7c4_tjFDIoyqbT51heYEvAudcNUt) (If you prefer video over reading)
 
 
 ## CTF challenge Walkthroughs
