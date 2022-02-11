@@ -16,7 +16,7 @@ Unlike C or C++, Python has [automatic memory management](https://www.geeksforge
 
 We prefer Python in Cybersecurity, because complex scripts or attacks can be easily written in it. It helps to automate tasks across the cyberattack life cycle for both cyber attackers and defenders. Also, debugging python codes is quite simple.
 
-```
+``` python
 import socket
 import threading
 target = '103.21.127.134'
