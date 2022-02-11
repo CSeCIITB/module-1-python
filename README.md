@@ -23,29 +23,29 @@ This will get you familiar with writing exploit scripts in Python.
 
 ## Video guides
 
-## Our Introductory Session for Python :
+## Our Introductory Session for Python
+
 [CSeC - Intro to Python](https://iitbacin.sharepoint.com/:v:/s/CSecClub/ETXm3oSRRoJKgKDCaKLiRbYBTh5fLAYkaow3MX59-5FTyQ?e=1rRkWg) | [Colab Notebook link](https://colab.research.google.com/drive/1jtco0kzb9pg7eAPUEh4VEAP8k7Iq1J3P?usp=sharing)
 
 <font size="0">Credits to [scimaths](https://github.com/scimaths) 🙏</font>
 
 <-- will be adding more resource here -->
 
-## CTF challenge Walkthroughs :
-
-
+## CTF challenge Walkthroughs
 
 Now you may move to **Challenges** section to complete this week's material
-## Practice:
 
+## Practice
 
 # Challenges
+
 We have designed 5 challenges (in increasing order of difficulty):
+
 1. [bruteforcer](bruteforcer)
 2. [notwordle](notwordle)
 3. [pyjail](pyjail)
 4. [tic-tac-toe](tic-tac-toe)
 5. [minesweeper](minesweeper)
-
 
 All challenges are present in different folders of this
 repository. All in all, you would need to solve **atleast 2 challenges throughtout the module** but we encourage that you solve all of these, for things are more fun that way 😊.
