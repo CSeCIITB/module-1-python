@@ -43,8 +43,8 @@ We have designed 5 challenges (in increasing order of difficulty):
 1. [bruteforcer](bruteforcer)
 2. [notwordle](notwordle)
 3. [pyjail](pyjail)
-4. [minesweeper](minesweeper)
-5. [tic-tac-toe](tic-tac-toe)
+4. [tic-tac-toe](tic-tac-toe)
+5. [minesweeper](minesweeper)
 
 
 All challenges are present in different folders of this
