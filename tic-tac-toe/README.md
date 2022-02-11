@@ -12,6 +12,7 @@ Create a file `script.py` which solves the challenge. The first line of this fil
 <br>
 <br>
 <br>
+<br>
 <details>
   <summary>Solution spoiler</summary>
   https://levelup.gitconnected.com/mastering-tic-tac-toe-with-minimax-algorithm-3394d65fa88f
