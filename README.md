@@ -6,12 +6,12 @@ This week we will be covering Python along with some of its very powerful librar
 <img src="https://user-images.githubusercontent.com/81357954/153569492-a10ef6ad-3e2a-45ed-bb46-8758eae71cbf.png" alt="drawing" width="400"/>
 </p>
 
-Why it is called Python [:)?](https://docs.python.org/3/faq/general.html#:~:text=Details%20here.-,Why%20is%20it%20called%20Python%3F,to%20call%20the%20language%20Python.) </br>
+**Why it is called Python [:)?](https://docs.python.org/3/faq/general.html#:~:text=Details%20here.-,Why%20is%20it%20called%20Python%3F,to%20call%20the%20language%20Python.)** </br>
 
-[Python](https://en.wikipedia.org/wiki/Python_(programming_language)) is an [interpreted](https://www.ibm.com/docs/en/zos-basic-skills?topic=zos-compiled-versus-interpreted-languages) general-purpose programming language.
-Again Python is an open source software like Linux. So you can look up its source code [here](https://github.com/python/cpython), though it is not encouraged to try reading them 🦖.
+[**Python**](https://en.wikipedia.org/wiki/Python_(programming_language)) is an [interpreted](https://www.ibm.com/docs/en/zos-basic-skills?topic=zos-compiled-versus-interpreted-languages) general-purpose programming language.
+Again Python is an open source software like Linux. So you can look up its source code [here](https://github.com/python/cpython), though you are not encouraged to read them 🦖.
 
-An interesting [read](https://softwareengineering.stackexchange.com/questions/20988/why-is-python-written-in-c-and-not-in-c) on whether Python is written in C or not. We prefer Python since it is very easy to learn and write complex programs in it.  
+An interesting [read](https://softwareengineering.stackexchange.com/questions/20988/why-is-python-written-in-c-and-not-in-c) on whether Python is written in C or not.</br> We prefer Python since it is very easy to learn and write complex programs in it.  
 
 We are not taking up `how to install python`. Since it is available by default on Linux. Also, just a google search away.</br>
 [Here](http://docs.pwntools.com/en/latest/install.html) is the link to install `pwntools`. Though it comes installed on the VM we have provided.
@@ -24,7 +24,7 @@ This will get you familiar with writing exploit scripts in Python.
 ## Video guides
 
 ## Our Introductory Session for Python :
-[CSeC - Intro to Python](https://iitbacin.sharepoint.com/:v:/s/CSecClub/ETXm3oSRRoJKgKDCaKLiRbYBTh5fLAYkaow3MX59-5FTyQ?e=1rRkWg) | [Colab Notebook link](aks vaibahav)
+[CSeC - Intro to Python](https://iitbacin.sharepoint.com/:v:/s/CSecClub/ETXm3oSRRoJKgKDCaKLiRbYBTh5fLAYkaow3MX59-5FTyQ?e=1rRkWg) | [Colab Notebook link](https://colab.research.google.com/drive/1jtco0kzb9pg7eAPUEh4VEAP8k7Iq1J3P?usp=sharing)
 
 <font size="0">Credits to [scimaths](https://github.com/scimaths) 🙏</font>
 
