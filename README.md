@@ -16,7 +16,7 @@ An interesting [read](https://softwareengineering.stackexchange.com/questions/20
 We are not taking up `how to install python`. Since it is available by default on Linux. Also, just a google search away.</br>
 [Here](http://docs.pwntools.com/en/latest/install.html) is the link to install `pwntools`. Though it comes installed on the VM we have provided.
 
-The content include an introduction to Python(syntax and such stuff). Then an introduction to [pwntools](http://docs.pwntools.com/en/latest/), an interesting framework. `Pwntools` in itself is a huge package and would require a dedicated module would be less to know everything about it;
+This week's content includes an introduction to Python(syntax and such stuff). Then an introduction to [pwntools](http://docs.pwntools.com/en/latest/), an interesting framework. `Pwntools` in itself is a huge package and would require a dedicated module would be less to know everything about it;
 This will get you familiar with writing exploit scripts in Python.
 
 ## Our Introductory Session for Python
