@@ -31,22 +31,20 @@ Credits to [scimaths](https://github.com/scimaths) 🙏
 3. [Pwntools Cheat Sheet](https://gist.github.com/anvbis/64907e4f90974c4bdd930baeb705dedf)
 
 ## Video guides
-1. Another learn python [playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln) (If you prefer video over reading)
-2.  
+- Another brief learn python [playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln) (If you prefer video over reading)
+
 
 ## CTF challenge Walkthroughs
 1. string evaluation of input in python2 [HSCTF - Python Remote Code Execution ](https://www.youtube.com/watch?v=gmaWOknsb2A) (5 min) | Read about Python2.x input vulnerability [here](https://www.geeksforgeeks.org/vulnerability-input-function-python-2-x/)
 1. pwntools process interaction [GOOGLE CTF 2021](https://www.proggen.org/doku.php?id=security:ctf:writeup:google:2021:filestore) (good read)
 2. pwntools in bash [TAMU CTF 2020](https://www.youtube.com/watch?v=fZ3mPRctbO0) (17 mins)
 3. Request module usage [OverTheWire natas level4](https://www.youtube.com/watch?v=Sf63W1xXzNU) (11  mins)
-4.
-5.
-6.
+4. Pyjail  [Offshift 2021](https://www.youtube.com/watch?v=aK3b0PM1Fz8) (6 mins)
 
 Now you may move to **Challenges** section to complete this week's material
 
 ## Practice
-
+- [PicoGym](https://play.picoctf.org/practice) (Filter challenges by **Genral Skills**)
 # Challenges
 
 We have designed 5 challenges (in increasing order of difficulty):
