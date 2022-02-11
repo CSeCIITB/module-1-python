@@ -13,7 +13,7 @@ Again Python is an open source software like Linux. So you can look up its sourc
 
 An interesting [read](https://softwareengineering.stackexchange.com/questions/20988/why-is-python-written-in-c-and-not-in-c) on whether Python is written in C or not. We prefer Python since it is very easy to learn and write complex programs in it.  
 
-We are not taking up `how to install python`. Since it is available by default on Linux. Also, just a google search away.
+We are not taking up `how to install python`. Since it is available by default on Linux. Also, just a google search away.</br>
 [Here](http://docs.pwntools.com/en/latest/install.html) is the link to install `pwntools`. Though it comes installed on the VM we have provided.
 
 The content include an introduction to Python(syntax and such stuff). Then an introduction to [pwntools](http://docs.pwntools.com/en/latest/), an interesting framework. `Pwntools` in itself is a huge package and would require a dedicated module would be less to know everything about it;
