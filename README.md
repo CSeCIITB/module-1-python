@@ -11,14 +11,17 @@ This week we will be covering Python along with some of its very powerful librar
 [**Python**](https://en.wikipedia.org/wiki/Python_(programming_language)) is an [interpreted](https://www.ibm.com/docs/en/zos-basic-skills?topic=zos-compiled-versus-interpreted-languages) general-purpose programming language.
 Again Python is an open source software like Linux. So you can look up its source code [here](https://github.com/python/cpython), though you are not encouraged to read them 🦖.
 
-An interesting [read](https://softwareengineering.stackexchange.com/questions/20988/why-is-python-written-in-c-and-not-in-c) on whether Python is written in C or not.</br> We prefer Python since it is very easy to learn and write complex programs in it.  
+An interesting [read](https://softwareengineering.stackexchange.com/questions/20988/why-is-python-written-in-c-and-not-in-c) on whether Python is written in C or not.</br> We prefer Python since it is very easy to learn and write complex programs in it.
 
 ## Installation
 We are not taking up `how to install python`. Since it is available by default on Linux. Also, just a google search away.</br>
-[Here](http://docs.pwntools.com/en/latest/install.html) is the link to install `pwntools`. Though it comes installed on the VM we have provided.
+[Here](http://docs.pwntools.com/en/latest/install.html) is the link to install `pwntools`. Though it comes pre installed on the VM we have provided.
 
 ## Overview
-This week's content includes an introduction to Python(syntax and such stuff). Followed by an introduction to [pwntools](http://docs.pwntools.com/en/latest/), an interesting framework. `Pwntools` in itself is a huge package and even a dedicated module would be less to know everything about it. It will get you familiar with writing exploit scripts in Python.
+This week's content includes an introduction to Python(syntax and such stuff). These resources will make you comfortable with python.</br>
+Followed by an introduction to [pwntools](http://docs.pwntools.com/en/latest/), an interesting framework. `Pwntools` in itself is a huge package and even a dedicated module would be less to know everything about it. </br>
+It will get you familiar with writing exploit scripts in Python.</br>
+Some other important modules/libraries regularly used are [sys](https://docs.python.org/3/library/sys.html), [os](https://docs.python.org/3/library/os.html), [subprocess](https://docs.python.org/3/library/subprocess.html), all these are in-built python modules.
 
 ## Our Introductory Session for Python
 
