@@ -1,4 +1,4 @@
-# Module-1 Week-2 (Python) 🐍
+# Module-1 Week-2+0.5 (Python) 🐍
 
 Welcome to the second week (actually 1.5 weeks) of YoS :) </br>
 This week we will be covering Python along with one of its very powerful library **pwntools**.
@@ -72,7 +72,7 @@ Credits to [scimaths](https://github.com/scimaths) 🙏
 Now you may move to **Challenges** section to complete this week's material. Optimal duration to complete all the above material is 1.5 weeks(11 days).
 
 ## Practice
-- [PicoGym](https://play.picoctf.org/practice) (Filter challenges by **Genral Skills**)
+- [PicoGym](https://play.picoctf.org/practice) (Filter challenges by **General Skills**)
 # Challenges
 
 We have designed 5 challenges (in increasing order of difficulty):
