@@ -68,6 +68,7 @@ Credits to [scimaths](https://github.com/scimaths) 🙏
 2. pwntools in bash [TAMU CTF 2020](https://www.youtube.com/watch?v=fZ3mPRctbO0) (17 mins)
 3. Request module usage [OverTheWire natas level4](https://www.youtube.com/watch?v=Sf63W1xXzNU) (11  mins)
 4. Pyjail  [Offshift 2021](https://www.youtube.com/watch?v=aK3b0PM1Fz8) (6 mins)
+5. Blind Attack [TamuCTF 2020](https://www.youtube.com/watch?v=fZ3mPRctbO0) (16 mins)
 
 Now you may move to **Challenges** section to complete this week's material. Optimal duration to complete all the above material is 1.5 weeks(11 days).
 
